@@ -1,6 +1,6 @@
 # Linux Command Repository & OS Work
 
-![Linux Logo](./download.png)
+![Linux Logo](./linux2.png)
 
 This repository contains a collection of essential Linux commands and scripts designed to facilitate efficient command-line usage. It also includes various projects and exercises related to introductory operating system concepts. The content is ideal for students, developers, and professionals looking to enhance their Linux skills and understanding of OS fundamentals.
 
